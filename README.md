@@ -3,8 +3,6 @@
 ## Overview
 This project is a humble attempt at creating a basic chat application using pure JavaScript. It serves as a stepping stone in my early career as a software developer, reflecting my enthusiasm and commitment to learning.
 
-
-### Projeto
 ![WhatsApp Clone](https://firebasestorage.googleapis.com/v0/b/hcode-com-br.appspot.com/o/whatsapp.jpg?alt=media&token=5fc78e3b-4871-424f-abfa-b765f2515d0c)
 
 
