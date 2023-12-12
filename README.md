@@ -40,7 +40,7 @@ This simple chat clone project represents my early journey as a software develop
 
 ## Resources
 
-| Recurso                     | Link                                                       |
+| Resource                     | Link                                                       |
 | ---------------------------- | ---------------------------------------------------------- |
 | **Webpack**                  | [https://webpack.js.org/](https://webpack.js.org/)           |
 | **Firebase Authentication**  | [https://firebase.google.com/docs/auth/?authuser=0](https://firebase.google.com/docs/auth/?authuser=0) |
